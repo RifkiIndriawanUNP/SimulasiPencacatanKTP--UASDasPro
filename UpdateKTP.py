@@ -10,7 +10,7 @@ def updateKtp():
             if f'NIK = {nik}\n' in ktp:
                 print(f"Data Lama:\n===KTP==={ktp}")
                     
-                new_data = f"\nNIK = {nik}\n"
+                new_data = f"\nNIK = {input('NIK Revisi: ')}\n"
                 new_data += f"Nama = {input('Nama baru: ')}\n"
                 new_data += f"Tempat/Tanggal Lahir = {input('TTL baru: ')}\n"
                 new_data += f"Alamat = {input('Alamat baru: ')}\n"

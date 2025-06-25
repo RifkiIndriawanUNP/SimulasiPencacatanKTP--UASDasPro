@@ -1,25 +1,13 @@
-import MenuAdmin
-import MenuUser
-
-DATA_LOGIN = {
-    "admin": "admin123",
-    "user": "password"
-}
+import Login
 
 while True:
-    print("===Aplikasi Pencatatan KTP===\n")
-    print("=== LOGIN ===")
-    username = input("Username: ")
-    password = input("Password: ")
-        
-    if username == 'admin':
-        if username in DATA_LOGIN and DATA_LOGIN[username] == password:
-            print(f"Login berhasil")
-        MenuAdmin.menu_admin()
-    elif username == 'user':
-        if username in DATA_LOGIN and DATA_LOGIN[username] == password:
-            print(f"Login berhasil")
-        MenuUser.menu_user()
+    print("=== Aplikasi Pencatatan Data KTP ===")
+    print("\n1. Login\n2. Keluar")
+    menu = input("pilih menu (1-2): ")
+    if menu == '1':
+        Login.Login()
+    elif menu == '2':
+        break
     else:
-        print("===Username atau password salah===")
+        print("Pilihan tidak valid!") 
     
