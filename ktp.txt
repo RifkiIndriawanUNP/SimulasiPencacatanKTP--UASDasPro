@@ -13,6 +13,6 @@ Alamat = Gegerbitung
 
 ===KTP===
 NIK = 333
-Nama = Naufal
+Nama = Naufal Syauqi
 Tempat/Tanggal Lahir = Sukabumi/31 Maret 2007
-Alamat = Cimahpar
+Alamat = Sukaraja

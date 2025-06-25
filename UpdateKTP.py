@@ -1,7 +1,7 @@
 def updateKtp():
     print("\n=== UPDATE KTP ===")
-    nik = input("Masukkan NIK: ")
 
+    nik = input("Masukkan NIK: ")
     
     with open(r'D:\Test\Rifki\KTP\ktp.txt', "r+") as file:
         data = file.read().split('\n===KTP===')

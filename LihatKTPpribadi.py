@@ -8,4 +8,6 @@ def lihat_ktp():
         for i, ktp in enumerate(data[1:], 1):
             if f'NIK = {nik}\n' in ktp:
                 return print(f"Data Anda:\n===KTP==={ktp}")
+    
+        print("NIK tidak ditemukan!")
     file.close()
