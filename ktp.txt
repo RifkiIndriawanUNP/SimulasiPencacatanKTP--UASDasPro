@@ -1,18 +1,18 @@
 
 ===KTP===
-NIK = 1
-Nama = lou
-Tempat/Tanggal Lahir = l
-Alamat = l
+NIK = 111
+Nama = Mohammad Rifki Indriawan
+Tempat/Tanggal Lahir = Sukabumi/30 September 2004
+Alamat = Sukaraja
 
 ===KTP===
-NIK = 22
-Nama = dodo
-Tempat/Tanggal Lahir = a
-Alamat = p
+NIK = 222
+Nama = Cita Rahayu
+Tempat/Tanggal Lahir = Sukabumi/23 Oktober 2004
+Alamat = Gegerbitung
 
 ===KTP===
-NIK = 3
-Nama = dd
-Tempat/Tanggal Lahir = d
-Alamat = d
+NIK = 333
+Nama = Naufal
+Tempat/Tanggal Lahir = Sukabumi/31 Maret 2007
+Alamat = Cimahpar

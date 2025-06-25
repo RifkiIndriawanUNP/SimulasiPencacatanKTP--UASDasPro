@@ -1,4 +1,4 @@
-import LihatKTP
+import LihatKTPpribadi
 import Laporan
 
 def menu_user():
@@ -11,7 +11,7 @@ def menu_user():
         pilihan = input("Pilih menu (1-3): ")
         
         if pilihan == "1":
-            LihatKTP.lihat_ktp()
+            LihatKTPpribadi.lihat_ktp()
         elif pilihan == "2":
             Laporan.lapor_kesalahan()
         elif pilihan == "3":
