@@ -1,0 +1,18 @@
+
+===KTP===
+NIK = 1
+Nama = lou
+Tempat/Tanggal Lahir = l
+Alamat = l
+
+===KTP===
+NIK = 22
+Nama = dodo
+Tempat/Tanggal Lahir = a
+Alamat = p
+
+===KTP===
+NIK = 3
+Nama = dd
+Tempat/Tanggal Lahir = d
+Alamat = d
