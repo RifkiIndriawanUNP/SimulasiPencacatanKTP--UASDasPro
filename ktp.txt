@@ -16,3 +16,9 @@ NIK = 333
 Nama = Naufal Syauqi
 Tempat/Tanggal Lahir = Sukabumi/31 Maret 2007
 Alamat = Sukaraja
+
+===KTP===
+NIK = 4555
+Nama = Indriawan
+Tempat/Tanggal Lahir = Sukabuni/30-09-2004
+Alamat = Goalpora
