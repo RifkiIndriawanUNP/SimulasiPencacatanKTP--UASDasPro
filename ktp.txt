@@ -22,3 +22,9 @@ NIK = 4555
 Nama = Indriawan
 Tempat/Tanggal Lahir = Sukabuni/30-09-2004
 Alamat = Goalpora
+
+===KTP===
+NIK = 555
+Nama = Rifqy
+Tempat/Tanggal Lahir = Sukabumi/09-09-2004
+Alamat = Goalpara

@@ -24,5 +24,5 @@ def updateKtp():
 
                 return print("\n===Data berhasil diupdate===")
             
-            print("=== NIK Tidak Ditemukan===")
+        print("=== NIK Tidak Ditemukan===")
 
